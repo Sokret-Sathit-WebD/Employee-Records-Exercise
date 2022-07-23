@@ -40,7 +40,7 @@
 // console.log(employee0)
 
 
-const employees = [Vito];
+const employees = [];
 
 function Employee(name, title, salary, status) {
     this.name = name
